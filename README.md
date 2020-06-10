@@ -61,7 +61,7 @@ After changes, the manifest file should look like below:
     ...
 ```
 
-Then, import [RtMidiKlak.unitypackage][https://github.com/diegodorado/RtMidiKlak/raw/master/RtMidiKlak.unitypackage]
+Then, import [RtMidiKlak.unitypackage](https://github.com/diegodorado/RtMidiKlak/raw/master/RtMidiKlak.unitypackage)
 
 Finally, go to `Player Settings` ( `Edit -> Project Settings -> Player` ) and make sure `Allow 'unsafe'  Code` is checked.
 
