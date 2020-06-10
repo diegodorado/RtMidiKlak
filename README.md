@@ -74,7 +74,7 @@ How To Use It
 - **RtNoteInput** - receives MIDI note messages and invokes Unity events with input values (note number and velocity).
 - **RtKnobInput** - receives MIDI CC (control change) messages and invokes Unity events with a single float value.
 - **RtNoteOut** - sends MIDI note messages out.
-- **RtKnobInput** - sends MIDI CC (control change) messages out.
+- **RtCcOut** - sends MIDI CC (control change) messages out.
 
 
 Also see [the troubleshooting topics][Troubleshoot] if you meet any problem
