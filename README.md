@@ -81,7 +81,6 @@ Also see [the troubleshooting topics][Troubleshoot] if you meet any problem
 in using MIDI devices.
 
 
-
 [keijiro]: https://github.com/keijiro
 [Klak]: https://github.com/keijiro/Klak
 [MidiJack]: https://github.com/keijiro/MidiJack
